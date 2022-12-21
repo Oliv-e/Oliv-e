@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oliv-e
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Frontend Web
+- 👀 I’m interested in Cosplay
+- 🌱 I’m currently learning C,C++,Python
 - 📫 How to reach me oliversmk7rpl@gmail.com
 
 <!---
