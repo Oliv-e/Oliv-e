@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oliv-e
-- 👀 I’m interested in Cosplay
-- 🌱 I’m currently learning C,C++,Python
+- 👀 I’m interested in Websites and Internet of Things
+- 🌱 I’m currently learning Next.js using tailwindcss and react library. using vite.js and laravel + bootstrap before.
 - 📫 How to reach me oliversmk7rpl@gmail.com
 
 <!---
